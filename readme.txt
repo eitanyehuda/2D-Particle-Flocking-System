@@ -1,3 +1,11 @@
+C++ and OpenGL
+
+type make to compile and run program.
+
+![image](https://user-images.githubusercontent.com/23744162/137963417-f924faf8-7023-4507-94aa-dfc7587236bb.png)
+![image](https://user-images.githubusercontent.com/23744162/137963709-9a492fe9-4520-40dd-a855-a23ece61ce6b.png)
+![image](https://user-images.githubusercontent.com/23744162/137963819-2c4f91f0-e735-4d83-a0ed-57050fb7fb24.png)
+
 I used Windows 10 OS and completed this assignment in VSCode.
 
 I compiled the code in MSYS2 MINGW-64 using the Makefile. Simply type make to remove past exe, compile program, and run.

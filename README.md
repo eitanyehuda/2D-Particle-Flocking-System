@@ -2,9 +2,9 @@ C++ and OpenGL
 
 type make to compile and run program.
 
-![image](https://user-images.githubusercontent.com/23744162/137963417-f924faf8-7023-4507-94aa-dfc7587236bb.png)
-![image](https://user-images.githubusercontent.com/23744162/137963709-9a492fe9-4520-40dd-a855-a23ece61ce6b.png)
-![image](https://user-images.githubusercontent.com/23744162/137963819-2c4f91f0-e735-4d83-a0ed-57050fb7fb24.png)
+![Screensht1](https://user-images.githubusercontent.com/23744162/137965600-70de9582-1dd1-4ad0-9ce1-87c9aa12444d.JPG)
+![Screensht2](https://user-images.githubusercontent.com/23744162/137966109-da88b432-eff3-4b5f-9b62-d833e55d4217.JPG)
+![Screensht3](https://user-images.githubusercontent.com/23744162/137966118-9c61a43a-c2e2-4bfc-82ee-227b29716071.JPG)
 
 I used Windows 10 OS and completed this assignment in VSCode.
 
